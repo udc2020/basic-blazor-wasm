@@ -1,0 +1,1 @@
+# Basic Tamplate Blazor wasm
